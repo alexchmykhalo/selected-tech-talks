@@ -24,6 +24,7 @@ There are many excellent tech talks that I recommend to view. Here I put links t
 | ------------------------------------------------------------ | -------- |
 | [The Team Leader Manifesto by Roy Osherove](https://www.youtube.com/watch?v=_UxzetgOWlE) | 1:13:19  |
 | [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) | 1:10:14  |
+| [GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M) | 40:38    |
 | [YOW! 2016 Robert C. Martin - Effective Estimation (or: How not to Lie)](https://www.youtube.com/watch?v=eisuQefYw_o) | 47:45    |
 | [Erik Rose   Constructive Code Review   PyCon 2017](https://www.youtube.com/watch?v=iNG1a--SIlk) | 46:04    |
 | [20 Years of Product Management in 25 Minutes by Dave Wascha](https://www.youtube.com/watch?v=i69U0lvi89c) | 29:54    |
