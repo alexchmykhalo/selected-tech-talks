@@ -1,6 +1,6 @@
 # Selected Tech Talks
 
-There are many excellent tech talks that I recommend to view. Here I put links to some of them. I will add new entries as I recall good candidates from talks that I watched in the past or when I found good video recordings from the latest conferences.
+There are many excellent tech talks that I recommend to view. Here I put links to some of them. I will add new entries as I recall good candidates from talks that I watched in the past or when I find good video recordings from the latest conferences.
 
 ## C++
 
