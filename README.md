@@ -17,6 +17,7 @@ There are many excellent tech talks that I recommend to view. Here I put links t
 | [CppCon 2016: Arthur O'Dwyer “Template Normal Programming (part 2 of 2)"](https://www.youtube.com/watch?v=VIz6xBvwYd8) | 1:00:49  |
 | [CppCon 2014: John Lakos "Defensive Programming Done Right, Part I"](https://www.youtube.com/watch?v=1QhtXRMp3Hg) | 59:51    |
 | [CppCon 2014: John Lakos "Defensive Programming Done Right, Part II"](https://www.youtube.com/watch?v=tz2khnjnUx8) | 1:06:09  |
+| [CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno) | 1:28:33 |
 
 ## Software Engineering \ Development Process 
 
