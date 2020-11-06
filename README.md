@@ -18,6 +18,8 @@ There are many excellent tech talks that I recommend to view. Here I put links t
 | [CppCon 2014: John Lakos "Defensive Programming Done Right, Part I"](https://www.youtube.com/watch?v=1QhtXRMp3Hg) | 59:51    |
 | [CppCon 2014: John Lakos "Defensive Programming Done Right, Part II"](https://www.youtube.com/watch?v=tz2khnjnUx8) | 1:06:09  |
 | [CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno) | 1:28:33 |
+| [CppCon 2017: Klaus Iglberger “Free Your Functions!”](https://www.youtube.com/watch?v=WLDT1lDOsb4) | 1:01:41 |
+| [CppCon 2016: Herb Sutter “Leak-Freedom in C++... By Default.”](https://www.youtube.com/watch?v=JfmTagWcqoE) | 1:39:24 |
 
 ## Software Engineering \ Development Process 
 
