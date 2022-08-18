@@ -21,6 +21,17 @@ There are many excellent tech talks that I recommend to view. Here I put links t
 | [CppCon 2017: Klaus Iglberger “Free Your Functions!”](https://www.youtube.com/watch?v=WLDT1lDOsb4) | 1:01:41 |
 | [CppCon 2016: Herb Sutter “Leak-Freedom in C++... By Default.”](https://www.youtube.com/watch?v=JfmTagWcqoE) | 1:39:24 |
 
+## Automated Testing / Unit Testing / TDD
+
+| Title\Link                                                   | Duration |
+| ------------------------------------------------------------ | -------- |
+| ["Is TDD dead? Part 1" by Martin Fowler, Kent Beck and David Heinemeier Hansson](https://www.youtube.com/watch?v=z9quxZsLcfo) | 30:25 |
+| ["Is TDD dead? Part 2" by Martin Fowler, Kent Beck and David Heinemeier Hansson](https://www.youtube.com/watch?v=JoTB2mcjU7w) | 35:19 |
+| ["Is TDD dead? Part 3" by Martin Fowler, Kent Beck and David Heinemeier Hansson](https://www.youtube.com/watch?v=YNw4baDz6WA) | 28:29 |
+| ["Is TDD dead? Part 4" by Martin Fowler, Kent Beck and David Heinemeier Hansson](https://www.youtube.com/watch?v=dGtasFJnUxI) | 35:17 |
+| ["Is TDD dead? Part 5-6" by Martin Fowler, Kent Beck and David Heinemeier Hansson](https://www.youtube.com/watch?v=gWD6REVeKW4) | 1:06:56 |
+
+
 ## Software Engineering \ Development Process 
 
 | Title\Link                                                   | Duration        |
